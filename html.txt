@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cars Landing Page</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Cars</h1>
+    </header>
+    <main>
+        <section class="hero">
+            <img src="https://th.bing.com/th/id/OIP.NDOdMC_KsCMy-cpI6kRK5wHaEW?rs=1&pid=ImgDetMain" alt="Car Image">
+            <h2>Explore the World of Cars</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed, convallis ex.</p>
+            <button>Learn More</button>
+        </section>
+        <section class="features">
+            <h2>Features</h2>
+            <ul>
+                <li>
+                    <i class="fas fa-gas-pump"></i>
+                    <h3>Fuel Efficiency</h3>
+                    <p>it can travel 15km per litre</p>
+                </li>
+                <li>
+                    <i class="fas fa-car"></i>
+                    <h3>Speed and Performance</h3>
+                    <p>the top speed of this car is 240kmph and its performance is top notch</p>
+                </li>sss
+                <li>
+                    <i class="fas fa-shield-alt"></i>
+                    <h3>Safety Features</h3>
+                    <p>it is having four airbags for safety </p>
+                </li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2023 Cars Landing Page</p>
+    </footer>
+</body>
+</html>
